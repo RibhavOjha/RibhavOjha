@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ribhav</h1>
-<h3 align="center">A passionate programmer in Artificial Intelligence, Machine Learning and Big Data fields.</h3>
+<h3 align="center">A passionate programmer in Artificial Intelligence, Machine Learning, Big Data and Software Engineering fields.</h3>
 
 - 🔭 I’m currently working at **CGG**
 
