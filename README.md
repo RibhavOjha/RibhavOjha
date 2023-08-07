@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ribhav</h1>
 <h3 align="center">A passionate programmer in Artificial Intelligence, Machine Learning, Big Data and Software Engineering fields.</h3>
 
-- 🔭 I’m currently working at **CGG**
+- 🔭 I’m currently working at **CGG** as a Python Developer.
 
-- 🌱 I’m currently learning **machine learning concepts for Drone Control**
+- 🌱 I’m currently learning **machine learning concepts for Drone Control and Safe Reinforcement Learning for Obstacle Avoidance**
 
 - 📫 How to reach me **ribhav.ojha@gmail.com**
 
